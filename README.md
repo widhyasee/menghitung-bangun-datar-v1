@@ -1,2 +1,3 @@
 # python
-ini adalah projek pertama saya dalam bahasa python
+ini adalah kumpulan projek saya dalam bahasa python
+TERIMAKASIH 
