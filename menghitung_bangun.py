@@ -41,7 +41,7 @@ if pilihan_awal == 1:
         print("hasilnya adalah " + str(luas_jjg))
 
     else:
-        print("TIDAK VALID")
+        print("TIDAK DAPAT DI PROSES")
 
 elif pilihan_awal == 2:
     print("=" * 20)
@@ -65,20 +65,20 @@ elif pilihan_awal == 2:
         print("hasilnya adalah " + str(kel_prgp))
 
     elif choice2 == 3:
-        bil1 = int(input("masukan bilangan A: "))
-        bil2 = int(input("masukan bilangan B: "))
-        bil3 = int(input("masukan bilangan C: "))
+        bil1 = int(input("masukan bilangan A : "))
+        bil2 = int(input("masukan bilangan B : "))
+        bil3 = int(input("masukan bilangan C : "))
         kel_sgt = bil1 + bil2 + bil3 
         print("hasilnya adalah " + str(kel_sgt))
 
     elif choice2 == 4:
-        bil1 = int(input("masukan bilangan A: "))
-        bil2 = int(input("masukan bilangan B: "))
+        bil1 = int(input("masukan bilangan A : "))
+        bil2 = int(input("masukan bilangan B : "))
         kel_jjg = 2 * (bil1+bil2)
         print("hasilnya adalah " + str(kel_jjg))
 
     else:
-        print("TIDAK VALID")
+        print("TIDAK DAPAT DI PROSES")
 
 else:
     print("TIDAK DAPAT DI PROSES")
