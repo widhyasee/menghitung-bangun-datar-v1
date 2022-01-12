@@ -1,4 +1,4 @@
-#menghitung bangun datar
+#menghitung luas dan keliling bangun datar
 
 print("=" * 20)
 print("1. mencari luas")
